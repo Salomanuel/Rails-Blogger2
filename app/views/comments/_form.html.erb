@@ -1,5 +1,5 @@
 <%= form_for [ @article, @comment ] do |f| %>
-	<%= f.label 			:author_name %>
+	<%= f.label 			:author_name, "Your Name" %>
 	<%= f.text_field 	:author_name %>
 
 	<%= f.label 			:body %>
