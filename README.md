@@ -10,4 +10,4 @@ In this project you’ll create a simple blog system and learn the basics of Rub
 - RESTful design
 - Adding gems for extra feature
 
-[tutorials.jumpstartlab.com/projects/blogger.html](tutorials.jumpstartlab.com/projects/blogger.html)
+[tutorials.jumpstartlab.com/projects/blogger.html](http://tutorials.jumpstartlab.com/projects/blogger.html)
